@@ -92,11 +92,7 @@ This HPC cluster is well-suited for:
 
 ---
 
-## 📫 **Contact Me**
 
-Feel free to reach out to me via email at [your.email@example.com](mailto:your.email@example.com) for any questions, collaborations, or feedback regarding this project.
-
----
 
 ## 🎉 **Acknowledgments**
 
